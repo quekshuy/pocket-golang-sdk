@@ -21,3 +21,9 @@ _testmain.go
 
 *.exe
 *.test
+
+# Exclude vim
+*.swp
+
+# Mac files
+*.DS_Store
